@@ -1,0 +1,22 @@
+{
+  "name": "newsite",
+  "version": "1.0.0",
+  "description": "my first gulp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ultra9/newsite.git"
+  },
+  "author": "Irina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ultra9/newsite/issues"
+  },
+  "homepage": "https://github.com/Ultra9/newsite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
